@@ -1,0 +1,2 @@
+include ':app', ':module'
+project(':module').projectDir = new File('D:\\Android\\AndroidStudioProject\\CustomWallpaper')
